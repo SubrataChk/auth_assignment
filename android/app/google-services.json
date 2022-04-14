@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491844245476",
+    "project_id": "auth-tutrial",
+    "storage_bucket": "auth-tutrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491844245476:android:ef02bd99b278a4851a19f1",
+        "android_client_info": {
+          "package_name": "com.example.auth_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491844245476-50n5bcs48dr076l2b3q92v9305gbsanh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_assignment",
+            "certificate_hash": "2657f9e5421e6a9636c0851ec547ff397bdc4691"
+          }
+        },
+        {
+          "client_id": "491844245476-uo7mn4iuq5k053lffb7msbsqcpkneh22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYAXmraiWxjvBgRC9aMYXeY3T5utlPmZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491844245476-uo7mn4iuq5k053lffb7msbsqcpkneh22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
